@@ -1,6 +1,0 @@
-The solution costs of 2 projects, the server and the client.
-PlayersVS is the server in Microsoft Visual Studio 2003 IDE format; that is, it has the various files (such as the .sln file)
-that has nothing to do with the application per se, but are required for Visual Studio.
-PlayersWS is the server in Jetbrains WebStorm IDE format. It does not contain any files specific to the IDE.
-
-The same *VS and *WS convention is used for the client projects.
