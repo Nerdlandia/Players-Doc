@@ -4,7 +4,7 @@ http://www.postgresql.org/download/
 http://www.pgadmin.org/
 
 3. install node
-https://nodejs.org/
+https://nodejs.org/ 
 
 4. You will need to create 2 folders, server and client
 server will act as your node middlelayer
