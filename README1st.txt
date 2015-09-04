@@ -1,0 +1,3 @@
+The project you are in now contains documentation.  An overview of installation information, some random slides from one of our presentations, and similar notes. 
+The projects are a simplified end-to-end proof-of-concept mobile app solution that updates a relational database.  In our labs we have both iOS and Android devices, running this solution, talking to a raspberry pi middle layer communicating with a cloud linux server back-end database.
+The projects are not robust or scalable.  They were not designed with best practices in mind. 
